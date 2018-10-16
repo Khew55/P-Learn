@@ -193,5 +193,5 @@
     }).listen(3000);
 
     console.log('server is running on http:/127.0.0.1:3000/')
-
-//16/10/18 Node.js for beginners 16 - Basic Routing with node
+    console.log('server is running on http:/127.0.0.1')
+//1/10/18 Node.js for beginners 16 - Basic Routing with node
